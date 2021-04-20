@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="3.3" Folio="111003213103" Fecha="2021-03-08T12:44:25" Sello="GEWh7NcUKTccoefPOAGPeYrlizIDfCZtkY1iPGUP6LawoxgZowl+nXFUvi42ifqnR7FP9HM8aipvC3A2dFxyFYv/F6yIHMeiXWknloKAGiGD4LwfGsgPsoZ1U0CvjGZWzcpt52oSqIKSryWRZYmQTSLlO2dseB9b07x16Y3pSgmGvcda5VtfVmjdtdIsardhv63wsQ6dVGOv9F+A57x95udDo9q5vK2R964M8sXzGjgpQIB8ygk65bcLFIkNGNhUScWsqxpubivSCHda1I6A9TugN88lt8VplTsfHFk9yuyKIZjlNPXi6EEERO90DBNnp0T3ZZcTKGm4vEnpXYWHHQ==" FormaPago="03" NoCertificado="00001000000412018028" Certificado="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" SubTotal="17899.76" Moneda="MXN" TipoCambio="1" Total="17947.63" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="06600" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+<cfdi:Emisor Rfc="PUN9810229R0" Nombre="SI VALE MEXICO SA DE CV" RegimenFiscal="601"/>
+<cfdi:Receptor Rfc="SSM120418CY2" Nombre="SAVERGLASS SERVICES MEXICO, S. DE R.L. DE C.V." UsoCFDI="P01"/>
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="84141602" Cantidad="1" ClaveUnidad="E48" Unidad="Unidad de Servicio" Descripcion="GASOLINA MAGNA FLEET CARGA DE SALDOS" ValorUnitario="17600.55" Importe="17600.55">
+</cfdi:Concepto><cfdi:Concepto ClaveProdServ="84141602" Cantidad="1" ClaveUnidad="E48" Unidad="Unidad de Servicio" Descripcion="Comision" ValorUnitario="299.21" Importe="299.21">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="299.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.87"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto></cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="47.87">
+<cfdi:Traslados>
+<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.87"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="4F4BB054-803E-11EB-ADAF-00155D014009" FechaTimbrado="2021-03-08T12:44:27" RfcProvCertif="TBN040609RKA" SelloCFD="GEWh7NcUKTccoefPOAGPeYrlizIDfCZtkY1iPGUP6LawoxgZowl+nXFUvi42ifqnR7FP9HM8aipvC3A2dFxyFYv/F6yIHMeiXWknloKAGiGD4LwfGsgPsoZ1U0CvjGZWzcpt52oSqIKSryWRZYmQTSLlO2dseB9b07x16Y3pSgmGvcda5VtfVmjdtdIsardhv63wsQ6dVGOv9F+A57x95udDo9q5vK2R964M8sXzGjgpQIB8ygk65bcLFIkNGNhUScWsqxpubivSCHda1I6A9TugN88lt8VplTsfHFk9yuyKIZjlNPXi6EEERO90DBNnp0T3ZZcTKGm4vEnpXYWHHQ==" NoCertificadoSAT="00001000000504587508" SelloSAT="RXM0EDN6KuyS4gxgTalurfs8kj8oXXffbo11TWA8S1dtvwn+2Pp2FCpc6xw2RRMwfztEiDH8oKZKj2zlj4VFxV4BItpb8cyXz2948LOjHE5KkmhQ9xPTfvnRgPPit1s/CvGCWRCqy0MywXtRv4NBtvAlBMT0NDac8neuo1XlUkDI8yqXJs7g2sdOnML5X4WHGwhSf7KTPq1cToJUyoCMq5fX9pQov7lFuvUz89BbYxPsIe5Gji4u8RFb5ATj1J/ncVwQVkuFJ2lsbU6PBahc2mviCrYPvlfXxK036FeXBZ6B2cyPx2pXm4M6YbYSE+jRJJLMdxlMnC4mnYjWQ5ILbg=="/>
+</cfdi:Complemento>
+<cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+<ecfd:ECFD version="1.0">
+<ecfd:Documento ID="T33111003213103">
+<ecfd:Encabezado>
+<ecfd:IdDoc>
+<ecfd:NroAprob>1</ecfd:NroAprob>
+<ecfd:AnoAprob>1900</ecfd:AnoAprob>
+<ecfd:Tipo>33</ecfd:Tipo>
+<ecfd:Folio>111003213103</ecfd:Folio>
+<ecfd:Estado>ORIGINAL</ecfd:Estado>
+<ecfd:NumeroInterno>111003213103</ecfd:NumeroInterno>
+<ecfd:FechaEmis>2021-03-08T12:39:00</ecfd:FechaEmis>
+<ecfd:FormaPago>03</ecfd:FormaPago>
+<ecfd:MedioPago>PUE</ecfd:MedioPago>
+<ecfd:NumCtaPago>0000</ecfd:NumCtaPago>
+<ecfd:TermPagoCdg>1</ecfd:TermPagoCdg>
+</ecfd:IdDoc>
+<ecfd:ExEmisor>
+<ecfd:RFCEmisor>PUN9810229R0</ecfd:RFCEmisor>
+<ecfd:NmbEmisor>SI VALE MEXICO SA DE CV</ecfd:NmbEmisor>
+<ecfd:Sucursal>N MEXICO</ecfd:Sucursal>
+<ecfd:DomFiscal>
+<ecfd:Calle>PASEO DE LA REFORMA</ecfd:Calle>
+<ecfd:NroExterior>284 PISO 23</ecfd:NroExterior>
+<ecfd:Colonia>JUAREZ</ecfd:Colonia>
+<ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+<ecfd:Estado>CIUDAD DE MEXICO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+</ecfd:DomFiscal>
+<ecfd:LugarExped>
+<ecfd:Calle>PASEO DE LA REFORMA</ecfd:Calle>
+<ecfd:NroExterior>284 PISO 23</ecfd:NroExterior>
+<ecfd:Colonia>JUAREZ</ecfd:Colonia>
+<ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+<ecfd:Estado>CIUDAD DE MEXICO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+</ecfd:LugarExped>
+</ecfd:ExEmisor>
+<ecfd:ExReceptor>
+<ecfd:RFCRecep>SSM120418CY2</ecfd:RFCRecep>
+<ecfd:NmbRecep>SAVERGLASS SERVICES MEXICO, S. DE R.L. DE C.V.</ecfd:NmbRecep>
+<ecfd:CodigoExReceptor>
+<ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+<ecfd:CdgIntRecep>10616250</ecfd:CdgIntRecep>
+</ecfd:CodigoExReceptor>
+<ecfd:UsoCFDI>P01</ecfd:UsoCFDI>
+<ecfd:Sucursal>SAVERGLASS</ecfd:Sucursal>
+<ecfd:DomFiscalRcp>
+<ecfd:Calle>FIDIAS</ecfd:Calle>
+<ecfd:NroExterior>140</ecfd:NroExterior>
+<ecfd:Colonia>VALLARTA SAN JORGE</ecfd:Colonia>
+<ecfd:Municipio>GUADALAJARA</ecfd:Municipio>
+<ecfd:Estado>JALISCO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>44690</ecfd:CodigoPostal>
+</ecfd:DomFiscalRcp>
+<ecfd:LugarRecep>
+<ecfd:Calle>FIDIAS</ecfd:Calle>
+<ecfd:NroExterior>140</ecfd:NroExterior>
+<ecfd:Colonia>VALLARTA SAN JORGE</ecfd:Colonia>
+<ecfd:Municipio>GUADALAJARA</ecfd:Municipio>
+<ecfd:Estado>JALISCO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>44690</ecfd:CodigoPostal>
+</ecfd:LugarRecep>
+</ecfd:ExReceptor>
+<ecfd:Totales>
+<ecfd:Moneda>MXN</ecfd:Moneda>
+<ecfd:FctConv>1</ecfd:FctConv>
+<ecfd:SubTotal>17899.76</ecfd:SubTotal>
+<ecfd:MntBase>17899.76</ecfd:MntBase>
+<ecfd:MntExe>17600.55</ecfd:MntExe>
+<ecfd:MntImp>47.87</ecfd:MntImp>
+<ecfd:VlrPagar>17947.63</ecfd:VlrPagar>
+</ecfd:Totales>
+<ecfd:ExImpuestos>
+<ecfd:TipoImp>002</ecfd:TipoImp>
+<ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+<ecfd:TasaImp>0.16</ecfd:TasaImp>
+<ecfd:MontoImp>47.87</ecfd:MontoImp>
+</ecfd:ExImpuestos>
+</ecfd:Encabezado>
+<ecfd:Detalle>
+<ecfd:NroLinDet>1</ecfd:NroLinDet>
+<ecfd:DscLang>ES</ecfd:DscLang>
+<ecfd:ClaveProdServ>84141602</ecfd:ClaveProdServ>
+<ecfd:DscItem>GASOLINA MAGNA FLEET CARGA DE SALDOS</ecfd:DscItem>
+<ecfd:QtyItem>1</ecfd:QtyItem>
+<ecfd:ClaveUnidad>E48</ecfd:ClaveUnidad>
+<ecfd:UnmdItem>Unidad de Servicio</ecfd:UnmdItem>
+<ecfd:PrcBrutoItem>17600.55</ecfd:PrcBrutoItem>
+<ecfd:PrcNetoItem>17600.55</ecfd:PrcNetoItem>
+<ecfd:MontoNetoItem>17600.55</ecfd:MontoNetoItem>
+</ecfd:Detalle>
+<ecfd:Detalle>
+<ecfd:NroLinDet>2</ecfd:NroLinDet>
+<ecfd:DscLang>ES</ecfd:DscLang>
+<ecfd:ClaveProdServ>84141602</ecfd:ClaveProdServ>
+<ecfd:DscItem>Comision</ecfd:DscItem>
+<ecfd:QtyItem>1</ecfd:QtyItem>
+<ecfd:ClaveUnidad>E48</ecfd:ClaveUnidad>
+<ecfd:UnmdItem>Unidad de Servicio</ecfd:UnmdItem>
+<ecfd:PrcBrutoItem>299.21</ecfd:PrcBrutoItem>
+<ecfd:PrcNetoItem>299.21</ecfd:PrcNetoItem>
+<ecfd:ImpuestosDet>
+<ecfd:TipoImp>002</ecfd:TipoImp>
+<ecfd:TasaImp>0.16</ecfd:TasaImp>
+<ecfd:MontoImp>47.87</ecfd:MontoImp>
+<ecfd:MontoBaseImp>299.21</ecfd:MontoBaseImp>
+<ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+</ecfd:ImpuestosDet>
+<ecfd:MontoNetoItem>299.21</ecfd:MontoNetoItem>
+</ecfd:Detalle>
+<ecfd:TimeStamp>0001-01-01T00:00:00</ecfd:TimeStamp>
+</ecfd:Documento>
+<ecfd:Personalizados>
+<ecfd:campoString name="ReferenciaPago">106162506</ecfd:campoString>
+<ecfd:campoString name="telefonos">106162506</ecfd:campoString>
+<ecfd:campoString name="sucursal">N MEXICO</ecfd:campoString>
+<ecfd:campoString name="TELEFONORECEPTOR"/>
+<ecfd:campoString name="EtiquetaTipoCFD">CLIENTE</ecfd:campoString>
+<ecfd:campoString name="NoPedido">9573720  -  9573720</ecfd:campoString>
+<ecfd:campoString name="FECHAENTREGA">08-MAR-21</ecfd:campoString>
+<ecfd:campoNumero name="NoChequeras">0</ecfd:campoNumero>
+<ecfd:campoNumero name="NoBonos">0</ecfd:campoNumero>
+<ecfd:campoString name="EjecutivoCuenta">PARRA QUIROZ CAROLINA</ecfd:campoString>
+<ecfd:campoString name="Cobrador">107</ecfd:campoString>
+<ecfd:campoString name="Observaciones"/>
+<ecfd:campoString name="FacturaSiVale">FACT SAL PRIVADO</ecfd:campoString>
+<ecfd:campoString name="IdentificadorFactura">11</ecfd:campoString>
+<ecfd:campoString name="Linea1"/>
+<ecfd:campoString name="Linea2"/>
+<ecfd:campoString name="Linea3"/>
+<ecfd:campoString name="Linea4"/>
+<ecfd:campoString name="Linea5"/>
+<ecfd:campoString name="Linea6"/>
+<ecfd:campoString name="Linea7"/>
+<ecfd:campoString name="Linea8"/>
+<ecfd:campoString name="TotalContraprestacion">(TRESCIENTOS CUARENTA Y SIETE PESOS 08/100 M.N.)</ecfd:campoString>
+<ecfd:campoNumero number="facturados"/>
+<ecfd:campoNumero number="ivafacturados"/>
+<ecfd:campoNumero name="Contraprestacion">299.21</ecfd:campoNumero>
+<ecfd:campoNumero name="IVAContraprestacion">47.87</ecfd:campoNumero>
+<ecfd:campoNumero number="otrosserv"/>
+<ecfd:campoNumero number="ivaotrosserv"/>
+<ecfd:campoString name="RESPONSABLECORREO">arv@saverglass.com;moh@saverglass.com;loz@saverglass.com</ecfd:campoString>
+<ecfd:campoNumero name="BANDERACORREO">1</ecfd:campoNumero>
+<ecfd:campoString name="IDENTI">NACIONAL</ecfd:campoString>
+<ecfd:campoNumero number="TotalDesc"/>
+<ecfd:campoString name="tipodeimp">002</ecfd:campoString>
+<ecfd:campoString name="tasaiva">0.160000                    Tasa</ecfd:campoString>
+<ecfd:campoString name="SI_ZZZ">(DIECISIETE MIL NOVECIENTOS CUARENTA Y SIETE PESOS 63/100 M.N.)</ecfd:campoString>
+<ecfd:campoString name="notasdetalle"/>
+<ecfd:campoString name="ClabeDinamica">112010296011412900</ecfd:campoString>
+<ecfd:campoString name="PlataformaSYC">SI</ecfd:campoString>
+<ecfd:campoString name="RegimenFiscal">601</ecfd:campoString>
+<ecfd:campoString name="TotalImpuestosTrasladados">47.87</ecfd:campoString>
+<ecfd:campoString name="v_CONFIRMACION"/>
+<ecfd:CustDetalle>
+<ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+<ecfd:CustDetAFN_07>GASOLINA MAGNA FLEET CARGA DE SALDOS</ecfd:CustDetAFN_07>
+<ecfd:CustDetNUD_01>0.00</ecfd:CustDetNUD_01>
+<ecfd:CustDetNUE_01></ecfd:CustDetNUE_01><ecfd:CustDetNUE_02></ecfd:CustDetNUE_02><ecfd:CUSTDETNUD_03></ecfd:CUSTDETNUD_03><ecfd:CUSTDETNUD_04></ecfd:CUSTDETNUD_04></ecfd:CustDetalle>
+<ecfd:CustDetalle>
+<ecfd:CustDetNroLin>2</ecfd:CustDetNroLin>
+<ecfd:CustDetAFN_07>Comision</ecfd:CustDetAFN_07>
+<ecfd:CustDetNUD_01>47.87</ecfd:CustDetNUD_01>
+<ecfd:CustDetNUE_01></ecfd:CustDetNUE_01><ecfd:CustDetNUE_02></ecfd:CustDetNUE_02><ecfd:CUSTDETNUD_03></ecfd:CUSTDETNUD_03><ecfd:CUSTDETNUD_04></ecfd:CUSTDETNUD_04></ecfd:CustDetalle>
+</ecfd:Personalizados>
+</ecfd:ECFD>
+</cfdi:Addenda>
+</cfdi:Comprobante>

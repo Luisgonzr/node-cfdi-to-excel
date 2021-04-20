@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="3.3" Folio="111003176791" Fecha="2021-02-16T07:16:15" Sello="h0ooFPqtjo0FPcYoP/TxCOpr/RrH/a1Ua1uuX1qVeEOCwYwf5uoVjPmilBO81ra0kg1bT3QHoNFhZaoXRBbfHHDAREb2wMwPYBkZA5U39LWnx7H3QRnpehxuQt9ffag0xtKGFDqgvTbSNYm9K7q5P0po62ZkNzPl49QkFJT39MzUYCddGFmjPAsAu+yF3mgVrkYGlm8YSjDFT3jBRyfmg0Ult4GhSG0EqUuRiddYqlQWllyYqdjzXkhew9yTfFcE1WmWzeJIet+TM3/bP2rcTWK98Jj7DYvlvC3+6XvsumATTBW96GsiBxoBJ/2558mssqutG4eefQqLCukUCEfHkw==" FormaPago="03" NoCertificado="00001000000412018028" Certificado="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" SubTotal="3500.00" Moneda="MXN" TipoCambio="1" Total="4060.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="06600" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+<cfdi:Emisor Rfc="PUN9810229R0" Nombre="SI VALE MEXICO SA DE CV" RegimenFiscal="601"/>
+<cfdi:Receptor Rfc="SSM120418CY2" Nombre="SAVERGLASS SERVICES MEXICO, S. DE R.L. DE C.V." UsoCFDI="P01"/>
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="84141602" Cantidad="100" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MAS DESPENSA MASTERCARD TARJETAS $35" ValorUnitario="35.00" Importe="3500.00">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="3500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="560.00"/> 
+</cfdi:Traslados>
+</cfdi:Impuestos></cfdi:Concepto></cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="560.00">
+<cfdi:Traslados>
+<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="560.00"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento>
+<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="26860739-7059-11EB-AE66-00155D014009" FechaTimbrado="2021-02-16T07:16:16" RfcProvCertif="TBN040609RKA" SelloCFD="h0ooFPqtjo0FPcYoP/TxCOpr/RrH/a1Ua1uuX1qVeEOCwYwf5uoVjPmilBO81ra0kg1bT3QHoNFhZaoXRBbfHHDAREb2wMwPYBkZA5U39LWnx7H3QRnpehxuQt9ffag0xtKGFDqgvTbSNYm9K7q5P0po62ZkNzPl49QkFJT39MzUYCddGFmjPAsAu+yF3mgVrkYGlm8YSjDFT3jBRyfmg0Ult4GhSG0EqUuRiddYqlQWllyYqdjzXkhew9yTfFcE1WmWzeJIet+TM3/bP2rcTWK98Jj7DYvlvC3+6XvsumATTBW96GsiBxoBJ/2558mssqutG4eefQqLCukUCEfHkw==" NoCertificadoSAT="00001000000504587508" SelloSAT="TJGy07PjlMjYwIWrTovErPFMVpGAiA3Gh7FYrSMrJheU79c+I2d0Vn55xvryGkcBYl42AcBhsPBius7NSZmf2FAz5T8peMP7S45rZS6jStzhua7MSpH4LKFIrxTaL3+4PWym41HYQCSSpSe0bmnHPd0FaLW30tSR3VXHaD2QC6cJtEC/Uvt4U6ZnAcABhfmVmAgmRmKmcVh7V61KxnDNzxg0WHKJTkh5xydpUB6XX47tXMMy31t7ZoWymhnDLxTfB7PeF1Z8vqkHk+qupCqVM9nlPDBtbCD809nlQQFxlWOZkNh7bdcz8czgDRtUEQJtEBwhv4NCwwSKd9tmKDyRtQ=="/>
+</cfdi:Complemento>
+<cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+<ecfd:ECFD version="1.0">
+<ecfd:Documento ID="T33111003176791">
+<ecfd:Encabezado>
+<ecfd:IdDoc>
+<ecfd:NroAprob>1</ecfd:NroAprob>
+<ecfd:AnoAprob>1900</ecfd:AnoAprob>
+<ecfd:Tipo>33</ecfd:Tipo>
+<ecfd:Folio>111003176791</ecfd:Folio>
+<ecfd:Estado>ORIGINAL</ecfd:Estado>
+<ecfd:NumeroInterno>111003176791</ecfd:NumeroInterno>
+<ecfd:FechaEmis>2021-02-16T04:34:28</ecfd:FechaEmis>
+<ecfd:FormaPago>03</ecfd:FormaPago>
+<ecfd:MedioPago>PUE</ecfd:MedioPago>
+<ecfd:NumCtaPago>0000</ecfd:NumCtaPago>
+<ecfd:TermPagoCdg>1</ecfd:TermPagoCdg>
+</ecfd:IdDoc>
+<ecfd:ExEmisor>
+<ecfd:RFCEmisor>PUN9810229R0</ecfd:RFCEmisor>
+<ecfd:NmbEmisor>SI VALE MEXICO SA DE CV</ecfd:NmbEmisor>
+<ecfd:Sucursal>N MEXICO</ecfd:Sucursal>
+<ecfd:DomFiscal>
+<ecfd:Calle>PASEO DE LA REFORMA</ecfd:Calle>
+<ecfd:NroExterior>284 PISO 23</ecfd:NroExterior>
+<ecfd:Colonia>JUAREZ</ecfd:Colonia>
+<ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+<ecfd:Estado>CIUDAD DE MEXICO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+</ecfd:DomFiscal>
+<ecfd:LugarExped>
+<ecfd:Calle>PASEO DE LA REFORMA</ecfd:Calle>
+<ecfd:NroExterior>284 PISO 23</ecfd:NroExterior>
+<ecfd:Colonia>JUAREZ</ecfd:Colonia>
+<ecfd:Municipio>CUAUHTEMOC</ecfd:Municipio>
+<ecfd:Estado>CIUDAD DE MEXICO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>06600</ecfd:CodigoPostal>
+</ecfd:LugarExped>
+</ecfd:ExEmisor>
+<ecfd:ExReceptor>
+<ecfd:RFCRecep>SSM120418CY2</ecfd:RFCRecep>
+<ecfd:NmbRecep>SAVERGLASS SERVICES MEXICO, S. DE R.L. DE C.V.</ecfd:NmbRecep>
+<ecfd:CodigoExReceptor>
+<ecfd:TpoCdgIntRecep>INT</ecfd:TpoCdgIntRecep>
+<ecfd:CdgIntRecep>10616250</ecfd:CdgIntRecep>
+</ecfd:CodigoExReceptor>
+<ecfd:UsoCFDI>P01</ecfd:UsoCFDI>
+<ecfd:Sucursal>SAVERGLASS</ecfd:Sucursal>
+<ecfd:DomFiscalRcp>
+<ecfd:Calle>FIDIAS</ecfd:Calle>
+<ecfd:NroExterior>140</ecfd:NroExterior>
+<ecfd:Colonia>VALLARTA SAN JORGE</ecfd:Colonia>
+<ecfd:Municipio>GUADALAJARA</ecfd:Municipio>
+<ecfd:Estado>JALISCO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>44690</ecfd:CodigoPostal>
+</ecfd:DomFiscalRcp>
+<ecfd:LugarRecep>
+<ecfd:Calle>FIDIAS</ecfd:Calle>
+<ecfd:NroExterior>140</ecfd:NroExterior>
+<ecfd:Colonia>VALLARTA SAN JORGE</ecfd:Colonia>
+<ecfd:Municipio>GUADALAJARA</ecfd:Municipio>
+<ecfd:Estado>JALISCO</ecfd:Estado>
+<ecfd:Pais>MEXICO</ecfd:Pais>
+<ecfd:CodigoPostal>44690</ecfd:CodigoPostal>
+</ecfd:LugarRecep>
+</ecfd:ExReceptor>
+<ecfd:Totales>
+<ecfd:Moneda>MXN</ecfd:Moneda>
+<ecfd:FctConv>1</ecfd:FctConv>
+<ecfd:SubTotal>3500</ecfd:SubTotal>
+<ecfd:MntBase>3500</ecfd:MntBase>
+<ecfd:MntExe>4060</ecfd:MntExe>
+<ecfd:MntImp>0</ecfd:MntImp>
+<ecfd:VlrPagar>4060</ecfd:VlrPagar>
+</ecfd:Totales>
+<ecfd:ExImpuestos>
+<ecfd:TipoImp>002</ecfd:TipoImp>
+<ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+<ecfd:TasaImp>0.16</ecfd:TasaImp>
+<ecfd:MontoImp>560</ecfd:MontoImp>
+</ecfd:ExImpuestos>
+</ecfd:Encabezado>
+<ecfd:Detalle>
+<ecfd:NroLinDet>1</ecfd:NroLinDet>
+<ecfd:DscLang>ES</ecfd:DscLang>
+<ecfd:ClaveProdServ>84141602</ecfd:ClaveProdServ>
+<ecfd:DscItem>MAS DESPENSA MASTERCARD TARJETAS $35</ecfd:DscItem>
+<ecfd:QtyItem>100</ecfd:QtyItem>
+<ecfd:ClaveUnidad>H87</ecfd:ClaveUnidad>
+<ecfd:UnmdItem>PIEZA</ecfd:UnmdItem>
+<ecfd:PrcBrutoItem>35</ecfd:PrcBrutoItem>
+<ecfd:PrcNetoItem>35</ecfd:PrcNetoItem>
+<ecfd:ImpuestosDet>
+<ecfd:TipoImp>002</ecfd:TipoImp>
+<ecfd:TasaImp>0.16</ecfd:TasaImp>
+<ecfd:MontoImp>560</ecfd:MontoImp>
+<ecfd:MontoBaseImp>3500</ecfd:MontoBaseImp>
+<ecfd:TipoFactor>Tasa</ecfd:TipoFactor>
+</ecfd:ImpuestosDet>
+<ecfd:MontoNetoItem>3500</ecfd:MontoNetoItem>
+</ecfd:Detalle>
+<ecfd:TimeStamp>0001-01-01T00:00:00</ecfd:TimeStamp>
+</ecfd:Documento>
+<ecfd:Personalizados>
+<ecfd:campoString name="ReferenciaPago">106162506</ecfd:campoString>
+<ecfd:campoString name="telefonos">106162506</ecfd:campoString>
+<ecfd:campoString name="sucursal">N MEXICO</ecfd:campoString>
+<ecfd:campoString name="TELEFONORECEPTOR"/>
+<ecfd:campoString name="EtiquetaTipoCFD">CLIENTE</ecfd:campoString>
+<ecfd:campoString name="NoPedido">9478325 - 9478325</ecfd:campoString>
+<ecfd:campoString name="FECHAENTREGA">08-FEB-21</ecfd:campoString>
+<ecfd:campoNumero name="NoChequeras">0</ecfd:campoNumero>
+<ecfd:campoNumero name="NoBonos">0</ecfd:campoNumero>
+<ecfd:campoString name="EjecutivoCuenta">PARRA QUIROZ CAROLINA</ecfd:campoString>
+<ecfd:campoString name="Cobrador">107</ecfd:campoString>
+<ecfd:campoString name="Observaciones"/>
+<ecfd:campoString name="FacturaSiVale">FACT TJT PRIVADO</ecfd:campoString>
+<ecfd:campoString name="IdentificadorFactura">11</ecfd:campoString>
+<ecfd:campoString name="Linea1"/>
+<ecfd:campoString name="Linea2"/>
+<ecfd:campoString name="Linea3"/>
+<ecfd:campoString name="Linea4"/>
+<ecfd:campoString name="Linea5"/>
+<ecfd:campoString name="Linea6"/>
+<ecfd:campoString name="Linea7"/>
+<ecfd:campoString name="Linea8"/>
+<ecfd:campoString name="TotalContraprestacion">(CUATRO MIL SESENTA PESOS 00/100 M.N.)</ecfd:campoString>
+<ecfd:campoNumero number="facturados"/>
+<ecfd:campoNumero number="ivafacturados"/>
+<ecfd:campoNumero number="Contraprestacion"/>
+<ecfd:campoNumero number="IVAContraprestacion"/>
+<ecfd:campoNumero name="otrosserv">3500</ecfd:campoNumero>
+<ecfd:campoNumero name="ivaotrosserv">560</ecfd:campoNumero>
+<ecfd:campoString name="RESPONSABLECORREO">arv@saverglass.com;moh@saverglass.com;loz@saverglass.com</ecfd:campoString>
+<ecfd:campoNumero name="BANDERACORREO">1</ecfd:campoNumero>
+<ecfd:campoString name="IDENTI">NACIONAL</ecfd:campoString>
+<ecfd:campoNumero number="TotalDesc"/>
+<ecfd:campoString name="tipodeimp">002</ecfd:campoString>
+<ecfd:campoString name="tasaiva">0.160000 Tasa</ecfd:campoString>
+<ecfd:campoString name="SI_ZZZ">(CUATRO MIL SESENTA PESOS 00/100 M.N.)</ecfd:campoString>
+<ecfd:campoString name="notasdetalle"/>
+<ecfd:campoString name="ClabeDinamica">112010296011412900</ecfd:campoString>
+<ecfd:campoString name="PlataformaSYC">SI</ecfd:campoString>
+<ecfd:campoString name="RegimenFiscal">601</ecfd:campoString>
+<ecfd:campoString name="TotalImpuestosTrasladados">560.00</ecfd:campoString>
+<ecfd:campoString name="v_CONFIRMACION"/>
+<ecfd:CustDetalle>
+<ecfd:CustDetNroLin>1</ecfd:CustDetNroLin>
+<ecfd:CustDetAFN_07>MAS DESPENSA MASTERCARD TARJETAS $35</ecfd:CustDetAFN_07>
+<ecfd:CustDetNUD_01>560</ecfd:CustDetNUD_01>
+<ecfd:CustDetNUE_01></ecfd:CustDetNUE_01><ecfd:CustDetNUE_02></ecfd:CustDetNUE_02><ecfd:CUSTDETNUD_03></ecfd:CUSTDETNUD_03><ecfd:CUSTDETNUD_04></ecfd:CUSTDETNUD_04></ecfd:CustDetalle>
+</ecfd:Personalizados>
+</ecfd:ECFD>
+</cfdi:Addenda>
+</cfdi:Comprobante>
